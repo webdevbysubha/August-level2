@@ -1,6 +1,4 @@
-# Deploy a Hugo Website with Cloud Build and Firebase Pipeline || [GSP747](https://www.cloudskillsboost.google/focuses/14353?parent=catalog) ||
-
-## Solution [here](https://youtu.be/36-lU4ZhWhE)
+# Deploy a Hugo Website with Cloud Build and Firebase Pipeline 
 
 ### Run the following Commands in CloudShell
 
