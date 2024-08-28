@@ -1,3 +1,9 @@
+
+curl -LO https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Building%20Virtual%20Agent%20Fulfillment/quicklabgsp792.sh
+sudo chmod +x quicklabgsp792.sh
+./quicklabgsp792.sh
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Index.js
 
 // See https://github.com/dialogflow/dialogflow-fulfillment-nodejs
@@ -89,7 +95,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
 });
 
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Packge .Js
 
